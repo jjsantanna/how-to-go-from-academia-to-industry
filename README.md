@@ -3,7 +3,7 @@
 An student of mine asked me how to go from the academic skill to a job in the industry (cyber security). The following was my answer. I've decided to document the answer because more studens asked that.
 
 ````
-Hi David, it is really nice to hear your interest. 
+Hi <DEAR-STUDENT-NAME>, it is really nice to hear your interest! <IT REALLY IS> 
 
 After any academic course on cybersecurity, you already have some skills that you can say: "I know it!"
 
